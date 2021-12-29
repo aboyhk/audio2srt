@@ -1,5 +1,5 @@
 
-# 基于PaddleSpeech的语音识别API做的一个音视频文件生成srt字幕文件的小应用。
+# 基于PaddleSpeech的语音识别API做的一个音视频文件生成srt字幕文件的小应用
 
 *** **脚本说明：Ubuntu20.04 | Python | paddlespeech **
  
@@ -15,4 +15,4 @@ PaddleSpeech开源出来的接口能音频识别文字，然而不支持时间�
 
 终端中执行pyhon pic2vid.py
 
-应用会以当前目录下的hk_bg.jpg文件为背景，以当前目录下的1.wav为背景乐创建一个时长为1.wav时长的视频。
+应用会以当前目录下的hk_bg.jpg文件为背景，以当前目录下的1.wav为背景乐创建一个和1.wav音频文件同样时长的视频。

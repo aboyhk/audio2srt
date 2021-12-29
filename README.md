@@ -1,5 +1,5 @@
 
-# 基于PaddleSpeech的语音识别API做的一个音视频文件生成srt字幕文件的小应用
+# 用PaddleSpeech语音识别API做的音视频文件生成srt字幕文件小应用
 
 *** 脚本说明：Ubuntu20.04 | Python | paddlespeech **
  

@@ -1,0 +1,6 @@
+paddlepaddle
+paddlespeech
+ffmpeg-python
+numpy==1.20.0
+pydub
+moviepy
